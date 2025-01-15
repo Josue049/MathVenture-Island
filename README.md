@@ -1,7 +1,7 @@
 # MathVenture Island 🎮🏝️
 
 DOWNLOAD: https://drive.google.com/file/d/16Pt4cVXa1p9-2Jnw1w4Xr-NHop-Uvy0q/view?usp=sharing
-
+NOTE: You can download the file and open .json and edit it from Gdevelop
 MathVenture Island is an exciting educational game designed to teach math in a fun way. With an aesthetic inspired by classic RPGs, this project combines learning and entertainment for boys and girls seeking adventure and knowledge.
 
 ---
