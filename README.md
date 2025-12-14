@@ -1,73 +1,91 @@
-# MathVenture Island 🎮🏝️
+# 🏝️ MathVenture Island
 
-DOWNLOAD: https://drive.google.com/file/d/16Pt4cVXa1p9-2Jnw1w4Xr-NHop-Uvy0q/view?usp=sharing
+**MathVenture Island** es un videojuego educativo que combina aventura y matemáticas para convertir el aprendizaje en una experiencia divertida, interactiva y memorable. El jugador explora una isla fantástica y derrota enemigos resolviendo desafíos matemáticos, donde el razonamiento es la verdadera arma.
 
-NOTE: You can download the projet and open "MathVenture Island CODE COMPLETE.json" from gdevelop to edit it
-
-MathVenture Island is an exciting educational game designed to teach math in a fun way. With an aesthetic inspired by classic RPGs, this project combines learning and entertainment for boys and girls seeking adventure and knowledge.
+Este proyecto fue desarrollado como una propuesta de *edutainment*, buscando que las matemáticas dejen de sentirse como ejercicios repetitivos y pasen a ser parte natural del juego.
 
 ---
 
-## 📖 **Story**
-Embark on a journey as a young adventurer on MathVenture Island, an island full of mathematical creatures that will test your wits. Face challenges in addition, logic, fractions, and more while protecting the island from these adorable yet challenging enemies.
+## 🎮 ¿De qué trata?
+
+La isla está siendo invadida por criaturas que representan distintos conceptos matemáticos. Para avanzar, el jugador debe enfrentarlas resolviendo correctamente problemas de:
+
+* Suma y resta
+* Multiplicación
+* Fracciones
+* Secuencias
+* Ecuaciones básicas
+
+Cada partida presenta preguntas seleccionadas de forma aleatoria, asegurando que no haya dos aventuras iguales y fomentando la comprensión real en lugar de la memorización.
 
 ---
 
-## 🚀 **Features**
-- **+90 Unique Questions:** Each game is different thanks to the random selection of questions.
-- **Themed Creatures:** Face enemies like:
-- **Addolphin:** Master of addition and subtraction.
-- **Logicadillo:** Expert in mathematical logic.
-- **Fract-lion-nation:** Fraction dominator.
-- And many more!
-- **Cross-platform:** Compatible with Windows, Android, MacOS and Linux.
-- **Infinite replayability:** You will never have two games the same.
+## ✨ Características principales
+
+* Más de **90 preguntas matemáticas** integradas en mecánicas de combate
+* Enemigos temáticos con personalidad propia (ej. *Addolphin*, *Fract‑lion‑nation*)
+* Sistema de preguntas aleatorias
+* Estilo RPG / aventura accesible para estudiantes
+* Código y lógica editables para expansión educativa
 
 ---
 
-## 🛠️ **How ​​it was built**
-MathVenture Island was developed in [GDevelop](https://gdevelop.io/), a visual tool similar to Scratch, ideal for educational projects. This allows the game to not only be fun to play, but also accessible to learn how to program and modify it.
+## 🛠️ Tecnologías utilizadas
+
+* **GDevelop** – Motor de desarrollo de videojuegos
+* Diseño orientado a aprendizaje lúdico
+* Exportación actual: **Windows Desktop**
+
+El proyecto puede adaptarse fácilmente a otras plataformas compatibles con GDevelop.
 
 ---
 
-## 🎯 **Project Goal**
-The main goal is to teach mathematics in an entertaining way, ideal for the classroom or to play at home. In addition, the game is customizable, allowing new questions to be added to suit any educational level.
+## 🚀 Instalación y ejecución
+
+1. Descarga o clona este repositorio
+2. Abre el proyecto con **GDevelop**
+3. Ejecuta el juego desde el editor o exporta a tu plataforma preferida
 
 ---
 
-## 🧩 **Math Topics Covered**
-1. **Addition and Subtraction.**
-2. **Multiplication and Division.**
-3. **Fractions.**
-4. **Equations.**
-5. **Shape Patterns.**
-6. **Decimals.**
-7. **Percentages.**
-8. **Powers and Roots.**
-9. **Mathematical Logic.**
-10. **Number Sequences.**
+## 🧠 Objetivo educativo
+
+MathVenture Island busca:
+
+* Motivar el aprendizaje de matemáticas mediante el juego
+* Fomentar el razonamiento lógico
+* Reducir la ansiedad matemática en estudiantes
+* Demostrar que aprender puede ser una aventura
 
 ---
 
-## 🎮 **How ​​to Play**
-1. Download the game from https://drive.google.com/file/d/16Pt4cVXa1p9-2Jnw1w4Xr-NHop-Uvy0q/view?usp=sharing.
-2. Run the file according to your operating system.
-3. Explore the island, answer questions, and defeat the math creatures.
-4. Discover the final surprise when you complete the game!
+## 🏆 Reconocimientos
+
+* **Winner Hackathon** – CodePi Innovation Challenge
+* Proyecto publicado en Devpost
 
 ---
 
-## 💡 **Challenges overcome**
-Creating an educational game with a unique question and answer mechanic was quite a challenge, but the result is a fun and educational project that kids love.
+## 📌 Posibles mejoras futuras
+
+* Sistema de dificultad adaptativa
+* Registro de progreso del jugador
+* Nuevos mundos y conceptos matemáticos
+* Versión móvil y web
 
 ---
 
-## 🌟 **Future of the project**
-- Official release for multiple devices.
-- Inclusion of more questions and enemies.
-- Integration with learning platforms.
+## 👤 Autor
+
+**Josué Gutiérrez**
+Desarrollador de software e IA
 
 ---
 
-## ❤️ **Acknowledgements**
-Thanks to all the children, parents, and educators who inspire the development of STEM projects like this one. Together, we can make learning an unforgettable adventure.
+## 📄 Licencia
+
+Este proyecto puede ser utilizado con fines educativos y de aprendizaje. Revisa el archivo de licencia para más detalles.
+
+---
+
+Si este proyecto te resulta útil o inspirador, no olvides dejar una ⭐ en el repositorio.
