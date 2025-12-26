@@ -13,13 +13,16 @@
     "gridType": "rectangular",
     "gridWidth": 32,
     "gridHeight": 32,
+    "gridDepth": 32,
     "gridOffsetX": 0,
     "gridOffsetY": 0,
+    "gridOffsetZ": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
     "zoomFactor": 0.6040838749988899,
-    "windowMask": false
+    "windowMask": false,
+    "selectedLayer": ""
   },
   "objectsGroups": [],
   "variables": [
@@ -5576,7 +5579,8 @@
         "color": "255;255;255",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "center",
-        "wordWrap": true
+        "wordWrap": true,
+        "verticalTextAlignment": "top"
       }
     },
     {
@@ -5710,7 +5714,8 @@
         "color": "255;255;255",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "center",
-        "wordWrap": true
+        "wordWrap": true,
+        "verticalTextAlignment": "top"
       }
     },
     {
@@ -6071,7 +6076,8 @@
         "color": "255;255;255",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "center",
-        "wordWrap": false
+        "wordWrap": false,
+        "verticalTextAlignment": "top"
       }
     },
     {
@@ -9343,6 +9349,7 @@
       "ambientLightColorB": 200,
       "ambientLightColorG": 200,
       "ambientLightColorR": 200,
+      "camera2DPlaneMaxDrawingDistance": 5000,
       "camera3DFarPlaneDistance": 10000,
       "camera3DFieldOfView": 45,
       "camera3DNearPlaneDistance": 3,
