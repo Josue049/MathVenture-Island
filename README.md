@@ -1,5 +1,7 @@
 # 🏝️ MathVenture Island
 
+https://josue049.github.io/MathVenture-Island/
+
 **MathVenture Island** es un videojuego educativo que combina aventura y matemáticas para convertir el aprendizaje en una experiencia divertida, interactiva y memorable. El jugador explora una isla fantástica y derrota enemigos resolviendo desafíos matemáticos, donde el razonamiento es la verdadera arma.
 
 Este proyecto fue desarrollado como una propuesta de *edutainment*, buscando que las matemáticas dejen de sentirse como ejercicios repetitivos y pasen a ser parte natural del juego.
