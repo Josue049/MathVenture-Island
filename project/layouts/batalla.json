@@ -13,16 +13,13 @@
     "gridType": "rectangular",
     "gridWidth": 32,
     "gridHeight": 32,
-    "gridDepth": 32,
     "gridOffsetX": 0,
     "gridOffsetY": 0,
-    "gridOffsetZ": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
     "zoomFactor": 0.5843784410740942,
-    "windowMask": false,
-    "selectedLayer": ""
+    "windowMask": false
   },
   "objectsGroups": [],
   "variables": [
@@ -4552,8 +4549,7 @@
         "color": "255;255;255",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "left",
-        "wordWrap": true,
-        "verticalTextAlignment": "top"
+        "wordWrap": true
       }
     },
     {
@@ -4571,8 +4567,7 @@
         "color": "84;60;75",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "center",
-        "wordWrap": true,
-        "verticalTextAlignment": "top"
+        "wordWrap": true
       }
     },
     {
@@ -4590,8 +4585,7 @@
         "color": "84;60;75",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "center",
-        "wordWrap": true,
-        "verticalTextAlignment": "top"
+        "wordWrap": true
       }
     },
     {
@@ -4609,8 +4603,7 @@
         "color": "84;60;75",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "center",
-        "wordWrap": true,
-        "verticalTextAlignment": "top"
+        "wordWrap": true
       }
     },
     {
@@ -4628,8 +4621,7 @@
         "color": "84;60;75",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "center",
-        "wordWrap": true,
-        "verticalTextAlignment": "top"
+        "wordWrap": true
       }
     },
     {
@@ -4995,8 +4987,7 @@
         "color": "255;255;255",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "left",
-        "wordWrap": true,
-        "verticalTextAlignment": "top"
+        "wordWrap": true
       }
     },
     {
@@ -5014,8 +5005,7 @@
         "color": "255;255;255",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "left",
-        "wordWrap": true,
-        "verticalTextAlignment": "top"
+        "wordWrap": true
       }
     },
     {
@@ -5033,8 +5023,7 @@
         "color": "255;255;255",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "left",
-        "wordWrap": true,
-        "verticalTextAlignment": "top"
+        "wordWrap": true
       }
     },
     {
@@ -5569,8 +5558,7 @@
         "color": "255;239;94",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "left",
-        "wordWrap": true,
-        "verticalTextAlignment": "top"
+        "wordWrap": true
       }
     },
     {
@@ -5588,8 +5576,7 @@
         "color": "94;255;210",
         "fontFamily": "enter-the-gungeon-small.ttf",
         "align": "left",
-        "wordWrap": true,
-        "verticalTextAlignment": "top"
+        "wordWrap": true
       }
     },
     {
@@ -20180,7 +20167,6 @@
       "ambientLightColorB": 200,
       "ambientLightColorG": 200,
       "ambientLightColorR": 200,
-      "camera2DPlaneMaxDrawingDistance": 5000,
       "camera3DFarPlaneDistance": 10000,
       "camera3DFieldOfView": 45,
       "camera3DNearPlaneDistance": 3,
